@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaefazoofa.i-log.pl/sitemap.xml
